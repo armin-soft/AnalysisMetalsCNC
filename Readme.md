@@ -4,7 +4,7 @@
 
 - <p align="left"><b>Version:</b>5.0.0
 
-- <p align="left"><b>Last Update:<\b>2019/01/01
+- <p align="left"><b>Last Update:</b>2019/01/01
 
 - <p align="left"><b>Languages:</b>Python,Lua,Java Script
 
@@ -13,23 +13,23 @@
 # -------------------------------------------------------------------
 # [Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
-?<b>?Activation Server 24 Hours</b>
+âœ”ï¸<b>?Activation Server 24 Hours</b>
 
-??<b>Fixed Some Buged</b>
+âœ”ï¸<b>Fixed Some Buged</b>
 
-??<b>Increasing The Precision Measuring Parts</b>
+âœ”ï¸<b>Increasing The Precision Measuring Parts</b>
 
-??<b>Update Packages Lua Rocks Version:3.0.4</b>
+âœ”ï¸<b>Update Packages Lua Rocks Version:3.0.4</b>
 
-??<b>Added System Alert</b>
+âœ”ï¸<b>Added System Alert</b>
 
-??<b>Added Github Update</b>
+âœ”ï¸<b>Added Github Update</b>
 
-??<b>Added Installing Automaticly Packages</b>
+âœ”ï¸<b>Added Installing Automaticly Packages</b>
 
-??<b>Added Language Java Script</b>
+âœ”ï¸<b>Added Language Java Script</b>
 
-??<b>Added Analog Clock Widget Action Bar</b>
+âœ”ï¸<b>Added Analog Clock Widget Action Bar</b>
 # -------------------------------------------------------------------
 # [Update Github Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
@@ -169,26 +169,26 @@
 
 # [Developer:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 **ARMIN-SOFT**
-[«« WebSite »»](http://ARMIN-SOFT.ir)
-[«« Telegram »»](https://T.Me/ARMIN_SOFT)
-[«« Instagram »»](https://Instagram.com/ARMIN_SOFT)
-[«« Facebook »»](https://Facebook.com/ARMIN_SOFT)
-[«« Twitter »»](https://Twitter.com/ARMIN_SOFT)
+[Â«Â« WebSite Â»Â»](http://ARMIN-SOFT.ir)
+[Â«Â« Telegram Â»Â»](https://T.Me/ARMIN_SOFT)
+[Â«Â« Instagram Â»Â»](https://Instagram.com/ARMIN_SOFT)
+[Â«Â« Facebook Â»Â»](https://Facebook.com/ARMIN_SOFT)
+[Â«Â« Twitter Â»Â»](https://Twitter.com/ARMIN_SOFT)
 # -------------------------------------------------------------------
 # [Special Thanks:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 **Shayan Ahmadi Solati**
-[«« WebSite »»](http://Shayan-Soft.ir)
-[«« Telegram »»](https://T.Me/Shayan_Soft)
-[«« Instagram »»](https://Instagram.com/Shayan_Soft)
-[«« Facebook »»](https://Facebook.com/Shayan_Soft)
-[«« Twitter »»](https://Twitter.com/Shayan_Soft)
+[Â«Â« WebSite Â»Â»](http://Shayan-Soft.ir)
+[Â«Â« Telegram Â»Â»](https://T.Me/Shayan_Soft)
+[Â«Â« Instagram Â»Â»](https://Instagram.com/Shayan_Soft)
+[Â«Â« Facebook Â»Â»](https://Facebook.com/Shayan_Soft)
+[Â«Â« Twitter Â»Â»](https://Twitter.com/Shayan_Soft)
 
 **Ahmad Satefian**
-[«« WebSite »»](http://Ahmad-Satefian.ir)
-[«« Telegram »»](https://T.Me/Ahmad_Satefian)
-[«« Instagram »»](https://Instagram.com/Ahmad_Satefian)
-[«« Facebook »»](https://Facebook.com/Ahmad_Satefian)
-[«« Twitter »»](https://Twitter.com/Ahmad_Satefian)
+[Â«Â« WebSite Â»Â»](http://Ahmad-Satefian.ir)
+[Â«Â« Telegram Â»Â»](https://T.Me/Ahmad_Satefian)
+[Â«Â« Instagram Â»Â»](https://Instagram.com/Ahmad_Satefian)
+[Â«Â« Facebook Â»Â»](https://Facebook.com/Ahmad_Satefian)
+[Â«Â« Twitter Â»Â»](https://Twitter.com/Ahmad_Satefian)
 # -------------------------------------------------------------------
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/6xwc_logo_companyumbrella.png" width="300"></a></div>
 
