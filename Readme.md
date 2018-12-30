@@ -1,12 +1,12 @@
 # [Analysis Metals CNC](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
-- <p align="left"><b>Source:</b>Analysis Metals CNC
+- <p align="left"><b>⭐️Source:</b>Analysis Metals CNC
 
-- <p align="left"><b>Version:</b>5.0.0
+- <p align="left"><b>⭐️Version:</b>5.0.0
 
-- <p align="left"><b>Last Update:</b>2019/01/01
+- <p align="left"><b>⭐️Last Update:</b>2019/01/01
 
-- <p align="left"><b>Languages:</b>Python,Lua,Java Script
+- <p align="left"><b>⭐️Languages:</b>Python,Lua,Java Script
 
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/vicy_logo_analysismetalscnc.jpg" width="300"></a></div>
 
@@ -167,7 +167,7 @@
 # -------------------------------------------------------------------
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/vss4_logo_ARMIN-SOFT.jpg" width="300"></a></div>
 
-# [Developer:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [👤Developer:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 **ARMIN-SOFT**
 [«« WebSite »»](http://ARMIN-SOFT.ir)
 [«« Telegram »»](https://T.Me/ARMIN_SOFT)
@@ -175,7 +175,7 @@
 [«« Facebook »»](https://Facebook.com/ARMIN_SOFT)
 [«« Twitter »»](https://Twitter.com/ARMIN_SOFT)
 # -------------------------------------------------------------------
-# [Special Thanks:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [👥Special Thanks:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 **Shayan Ahmadi Solati**
 [«« WebSite »»](http://Shayan-Soft.ir)
 [«« Telegram »»](https://T.Me/Shayan_Soft)
@@ -192,5 +192,5 @@
 # -------------------------------------------------------------------
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/6xwc_logo_companyumbrella.png" width="300"></a></div>
 
-# [Company:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📢Company:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 [Umbrella Network Security](https://T.Me/Channel_UmbrellaGroup)
