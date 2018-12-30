@@ -165,7 +165,7 @@
 1. $Delete Data (Delete Data)
 ```
 # -------------------------------------------------------------------
-<div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/vss4_logo_ARMIN-SOFT.jpg" width="300"></a></div>
+<div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/vss4_logo_armin-soft.jpg" width="300"></a></div>
 
 # [👤Developer:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 **ARMIN-SOFT**
