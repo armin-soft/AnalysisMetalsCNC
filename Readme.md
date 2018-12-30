@@ -13,7 +13,7 @@
 # -------------------------------------------------------------------
 # [Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
-✔️<b>?Activation Server 24 Hours</b>
+✔️<b>Activation Server 24 Hours</b>
 
 ✔️<b>Fixed Some Buged</b>
 
