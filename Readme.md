@@ -11,7 +11,7 @@
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/vicy_logo_analysismetalscnc.jpg" width="300"></a></div>
 
 # -------------------------------------------------------------------
-# [Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ✔️<b>Activation Server 24 Hours</b>
 
@@ -31,7 +31,7 @@
 
 ✔️<b>Added Analog Clock Widget Action Bar</b>
 # -------------------------------------------------------------------
-# [Update Github Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁Update Github Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $Github Update (Update Github Source Last Version)
@@ -41,7 +41,7 @@
 3. $Run AnalysisMetalsCNC (Run System Packages)
 ```
 
-# [Server Prerequisites:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁Server Prerequisites:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $Remove Caches (Remove Caches)
@@ -63,7 +63,7 @@
 9. $Full Install Server Prerequisites (Install All Server Prerequisites)
 ```
 
-# [Inatalling Packages (Automaticly):](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁Inatalling Packages (Automaticly):](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $Installing Automaticly Packages (Installing Automaticly Packages)
@@ -73,7 +73,7 @@
 3. $Run AnalysisMetalsCNC (Run System Packages)
 ```
 
-# [Installing Packages (Manually):](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁Installing Packages (Manually):](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $Installing Manually Packages (Installing Manually Packages)
@@ -117,7 +117,7 @@
 19. $Run AnalysisMetalsCNC (Run System Packages)
 ```
 
-# [System Packages:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁System Packages:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $Save Packages1 (Save Packages1)
@@ -129,7 +129,7 @@
 4. $Run Save Packages (Run Save Packages)
 ```
 
-# [Debuged Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁Debuged Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $Debuged Automaticly (Debuged Automaticly)
@@ -137,13 +137,13 @@
 2. $Debuged Enabled/Disabled (Debuged Source Enabled & Disabled)
 ```
 
-# [Send Log Via Email Address:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁Send Log Via Email Address:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $Send Log  (Send Log Email Address)
 ```
 
-# [Send Result Work Via Print:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁Send Result Work Via Print:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $Send Result Work (Send Result Work Print)
@@ -151,7 +151,7 @@
 2. $Send Result Work Enabled/Disabled (Send Result Enabled & Disabled)
 ```
 
-# [BackUP Service:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁BackUP Service:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $BackUP Service (BackUP Service)
@@ -159,7 +159,7 @@
 2. $BackUP Service TIME (Set Time BackUP 00:00,06:00,12:00,18;00,...)
 ```
 
-# [Delete Data:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [📁Delete Data:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
 1. $Delete Data (Delete Data)
@@ -192,5 +192,5 @@
 # -------------------------------------------------------------------
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/6xwc_logo_companyumbrella.png" width="300"></a></div>
 
-# [📢Company:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
+# [🔮Company:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 [Umbrella Network Security](https://T.Me/Channel_UmbrellaGroup)
