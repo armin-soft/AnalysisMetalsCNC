@@ -105,9 +105,7 @@
 14. $Screen AnalysisMetalsCNC (Save Server2)
 
 15. $Anti Crash (Anti Crash Packages)
-```
 
-```
 16. $Installing Python (Installing Package Python)
 
 17. $Active Packages (Active Packages)
