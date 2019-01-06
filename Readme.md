@@ -4,7 +4,7 @@
 
 - <p align="left"><b>⭐️Version:</b>5.0.0
 
-- <p align="left"><b>⭐️Last Update:</b>2019/01/01
+- <p align="left"><b>⭐️Last Update:</b>2019/01/06
 
 - <p align="left"><b>⭐️Languages:</b>Python,Lua,Java Script
 
@@ -21,6 +21,8 @@
 
 ✔️<b>Update Packages Lua Rocks Version:3.0.4</b>
 
+✔️<b>Added APPlication Android</b>
+  
 ✔️<b>Added System Alert</b>
 
 ✔️<b>Added Github Update</b>
