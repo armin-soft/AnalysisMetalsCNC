@@ -23,7 +23,7 @@
 
 ✔️<b>Added File Systems</b>
 
-✔️<b>Fixed Some Buged</b>
+⛔<b>Fixed Some Buged</b>
 
 ✔️<b>Added Github Update</b>
 
