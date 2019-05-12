@@ -15,7 +15,7 @@
 
 ✔️<b>Update Packages Lua Rocks Version:5.0.7</b>
 
-<b>✔️Changed Language To "Python,Lua"</b>
+<b>✔️Changed Language To Python,Lua</b>
 
 ✔️<b> Added Contur System Drvice</b>
 
