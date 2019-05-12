@@ -25,11 +25,13 @@
 
 ✔️<b>Added File Systems</b>
 
-⛔<b>Fixed Some Buged</b>
-
 ✔️<b>Added Github Update</b>
 
 ✔️<b>Added Color Text HUG</b>
+
+❌<b>Removed Language Java Script</b>
+
+⛔<b>Fixed Some Buged</b>
 # --------------------------------------------------------------
 # [📁Update Github Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
