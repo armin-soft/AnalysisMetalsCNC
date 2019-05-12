@@ -17,7 +17,7 @@
 
 <b>✔️Changed Language To "Python,Lua"</b>
 
-✔️<b> Added Contur System Drvice<\b>
+✔️<b> Added Contur System Drvice</b>
 
 ✔️<b>Added File Datas</b>
 
