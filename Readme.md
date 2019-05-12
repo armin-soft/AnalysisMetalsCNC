@@ -10,7 +10,7 @@
 
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/r84z_analysismetalscnc.jpg" width="300"></a></div>
 
-# -------------------------------------------------------------------
+# --------------------------------------------------------------
 # [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ✔️<b>Activation Server 24 Hours</b>
@@ -38,7 +38,7 @@
 ✔️<b>Added File Setup</b>
 
 ✔️<b>Added Color Text HUG</b>
-# -------------------------------------------------------------------
+# --------------------------------------------------------------
 # [📁Update Github Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
@@ -170,7 +170,7 @@
 ```
 1. $Delete Data (Delete Data)
 ```
-# -------------------------------------------------------------------
+# --------------------------------------------------------------
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/vss4_logo_armin-soft.jpg" width="300"></a></div>
 
 # [👤Developer:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
@@ -180,7 +180,7 @@
 [«« Instagram »»](https://Instagram.com/ARMIN_SOFT)
 [«« Facebook »»](https://Facebook.com/ARMIN_SOFT)
 [«« Twitter »»](https://Twitter.com/ARMIN_SOFT)
-# -------------------------------------------------------------------
+# --------------------------------------------------------------
 # [👥Special Thanks:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 **Shayan Ahmadi Solati**
 [«« WebSite »»](http://Shayan-Soft.ir)
@@ -195,7 +195,7 @@
 [«« Instagram »»](https://Instagram.com/Ahmad_Satefian)
 [«« Facebook »»](https://Facebook.com/Ahmad_Satefian)
 [«« Twitter »»](https://Twitter.com/Ahmad_Satefian)
-# -------------------------------------------------------------------
+# --------------------------------------------------------------
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/6xwc_logo_companyumbrella.png" width="300"></a></div>
 
 # [🔮Company:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
