@@ -13,31 +13,25 @@
 # --------------------------------------------------------------
 # [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
-✔️<b>Activation Server 24 Hours</b>
+✔️<b>Added File Datas</b>
+
+✔️<b>Added File Setups</b>
+
+✔️<b>Added File Systems</b>
+
+✔️<b>Changed Language To "Python,Lua"</b>
 
 ✔️<b>Fixed Some Buged</b>
 
-✔️<b>Increasing The Precision Measuring Parts</b>
+✔️<b>Added Github Update</b>
 
-✔️<b>Update Packages Lua Rocks Version:3.0.4</b>
-
-✔️<b>Added APPlication Android</b>
-  
-✔️<b>Added System Alert</b>
+✔️<b>Update Packages Lua Rocks Version:5.0.7</b>
 
 ✔️<b>Added Github Update</b>
 
-✔️<b>Added Installing Automaticly Packages</b>
-
-✔️<b>Added Language Java Script</b>
-
-✔️<b>Added Analog Clock Widget Action Bar</b>
-
-✔️<b>Added File Data</b>
-
-✔️<b>Added File Setup</b>
-
 ✔️<b>Added Color Text HUG</b>
+
+✔️<b>Added Installing Automaticly Packages</b>
 # --------------------------------------------------------------
 # [📁Update Github Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
