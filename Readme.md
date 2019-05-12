@@ -2,13 +2,13 @@
 
 - <p align="left"><b>⭐️Source:</b>Analysis Metals CNC
 
-- <p align="left"><b>⭐️Version:</b>5.0.0
+- <p align="left"><b>⭐️Version:</b>7.0.0
 
-- <p align="left"><b>⭐️Last Update:</b>2019/01/06
+- <p align="left"><b>⭐️Last Update:</b>2019/05/1
 
-- <p align="left"><b>⭐️Languages:</b>Python,Lua,Java Script
+- <p align="left"><b>⭐️Languages:</b>Python,Lua
 
-<div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/vicy_logo_analysismetalscnc.jpg" width="300"></a></div>
+<div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/r84z_analysismetalscnc.jpg" width="300"></a></div>
 
 # -------------------------------------------------------------------
 # [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
@@ -32,6 +32,12 @@
 ✔️<b>Added Language Java Script</b>
 
 ✔️<b>Added Analog Clock Widget Action Bar</b>
+
+✔️<b>Added File Data</b>
+
+✔️<b>Added File Setup</b>
+
+✔️<b>Added Color Text HUG</b>
 # -------------------------------------------------------------------
 # [📁Update Github Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
