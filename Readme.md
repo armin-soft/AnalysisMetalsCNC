@@ -15,8 +15,6 @@
 
 ✔️<b>Update Packages Lua Rocks Version:5.0.7</b>
 
-✔️<b>Added Installing Automaticly Packages</b>
-
 <b>✔️Changed Language To "Python,Lua"</b>
 
 ✔️<b>Added File Datas</b>
@@ -26,8 +24,6 @@
 ✔️<b>Added File Systems</b>
 
 ✔️<b>Fixed Some Buged</b>
-
-✔️<b>Added Github Update</b>
 
 ✔️<b>Added Github Update</b>
 
