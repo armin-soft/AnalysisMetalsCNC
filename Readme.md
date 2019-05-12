@@ -4,7 +4,7 @@
 
 - <p align="left"><b>⭐️Version:</b>7.0.0
 
-- <p align="left"><b>⭐️Last Update:</b>2019/05/1
+- <p align="left"><b>⭐️Last Update:</b>2019/05/12
 
 - <p align="left"><b>⭐️Languages:</b>Python,Lua
 
@@ -13,25 +13,25 @@
 # --------------------------------------------------------------
 # [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
+✔️<b>Update Packages Lua Rocks Version:5.0.7</b>
+
+✔️<b>Added Installing Automaticly Packages</b>
+
+<b>✔️Changed Language To "Python,Lua"</b>
+
 ✔️<b>Added File Datas</b>
 
 ✔️<b>Added File Setups</b>
 
 ✔️<b>Added File Systems</b>
 
-✔️<b>Changed Language To "Python,Lua"</b>
-
 ✔️<b>Fixed Some Buged</b>
 
 ✔️<b>Added Github Update</b>
 
-✔️<b>Update Packages Lua Rocks Version:5.0.7</b>
-
 ✔️<b>Added Github Update</b>
 
 ✔️<b>Added Color Text HUG</b>
-
-✔️<b>Added Installing Automaticly Packages</b>
 # --------------------------------------------------------------
 # [📁Update Github Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
