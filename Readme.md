@@ -14,7 +14,7 @@
 # [🚨New Featurs:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
-1. $Upgrade Free Premium (Upgrade To Free Premium)
+1. $Upgrade Free Premium (Upgrade To Free Premium 30 Day)
 ```
 # --------------------------------------------------------------
 # [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
