@@ -9,7 +9,12 @@
 - <p align="left"><b>⭐️Languages:</b>Python,Lua,Mango
 
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/r84z_analysismetalscnc.jpg" width="300"></a></div>
+# --------------------------------------------------------------
+# [🚨New Featurs:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
+```
+1. $Upgrade Free Premium (Upgrade To Free Premium)
+```
 # --------------------------------------------------------------
 # [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
