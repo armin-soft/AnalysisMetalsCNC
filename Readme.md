@@ -2,20 +2,20 @@
 
 - <p align="left"><b>⭐️Source:</b>Analysis Metals CNC
 
-- <p align="left"><b>⭐️Version:</b>7.0.0
+- <p align="left"><b>⭐️Version:</b>10.0.0
 
-- <p align="left"><b>⭐️Last Update:</b>2019/05/12
+- <p align="left"><b>⭐️Last Update:</b>2020/04/09
 
-- <p align="left"><b>⭐️Languages:</b>Python,Lua
+- <p align="left"><b>⭐️Languages:</b>Python,Lua,Mango
 
 <div align="center"><a href="https://github.com/ARMIN-SOFT/AnalysisMetalsCNC"><img src="http://uupload.ir/files/r84z_analysismetalscnc.jpg" width="300"></a></div>
 
 # --------------------------------------------------------------
 # [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
-✔️<b>Update Packages Lua Rocks Version:5.0.7</b>
+✔️<b>Update Packages Lua Rocks Version:8.1.0</b>
 
-<b>✔️Changed Language To Python,Lua</b>
+<b>✔️Changed Language To Python,Lua,Mangu</b>
 
 ✔️<b> Added Contur System Drvice</b>
 
