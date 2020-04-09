@@ -14,7 +14,7 @@
 # [🚨New Featurs:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
-1. $Upgrade Free Premium (Upgrade To Free Premium 30 Day) - (Expier 2020/05/09)
+1. $Upgrade Free Premium <b>(Upgrade To Free Premium 30 Day) - (Expier 2020/05/09)</b>
 ```
 # --------------------------------------------------------------
 # [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
