@@ -4,7 +4,7 @@
 
 - <p align="left"><b>⭐️Version:</b>10.0.0
 
-- <p align="left"><b>⭐️Last Update:</b>2020/04/09
+- <p align="left"><b>⭐️Last Update:</b>2020/04/17
 
 - <p align="left"><b>⭐️Languages:</b>Python,Lua,Mango
 
@@ -14,30 +14,30 @@
 # [🚨New Featurs:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
 ```
-1. $Upgrade Free Premium (Upgrade To Free Premium 30 Day) - (Expier 2020/05/09)
+1. $Upgrade Free Premium (Upgrade To Free Premium 30 Day) - (Expier 2020/05/17)
 ```
 # --------------------------------------------------------------
 # [📁Last Changes:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
-✔️<b>Update Packages Lua Rocks Version:8.1.0</b>
+<b>✔️Update Packages Lua Rocks Version:8.1.0</b>
 
 <b>✔️Changed Language To Python,Lua,Mangu</b>
 
-✔️<b> Added Contur System Drvice</b>
+<b>✔️Added Contur System Drvice</b>
 
-✔️<b>Added File Datas</b>
+<b>✔️Added File Datas</b>
 
-✔️<b>Added File Setups</b>
+<b>✔️Added File Setups</b>
 
-✔️<b>Added File Systems</b>
+<b>✔️Added File Systems</b>
 
-✔️<b>Added Github Update</b>
+<b>✔️Added Github Update</b>
 
-✔️<b>Added Color Text HUG</b>
+<b>✔️Added Color Text HUG</b>
 
-❌<b>Removed Language Java Script</b>
+<b>❌Removed Language Java Script</b>
 
-⛔<b>Fixed Some Buged</b>
+<b>⛔Fixed Some Buged</b>
 # --------------------------------------------------------------
 # [📁Update Github Source:](https://github.com/ARMIN-SOFT/AnalysisMetalsCNC)
 
