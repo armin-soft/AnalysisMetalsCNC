@@ -175,12 +175,13 @@
 </div>
 
 # [👤Developer:](https://github.com/ARMIN-SOFT)
-
+```
 [🌐WebSite](https://armin-soft.ir)
 <br/>
 [♻️Telegram](https://T.Me/ARMIN_SOFT)
 <br/>
 [📷Instagram](https://Instagram.com/ARMIN_SOFT)
+```
 # --------------------------------------------------------------
 <div align="center"><a href="https://github.com/ARMIN-SOFT"><img src="http://uupload.ir/files/6xwc_logo_companyumbrella.png" width="300"></a>
 </div>
